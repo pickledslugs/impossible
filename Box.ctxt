@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Box
+comment0.text=\r\n\ A\ box\ that\ you\ can\ step\ on\ but\ can't\ bump\ in.\r\n\ \r\n\ @author\ Stepan\ Lugovoy\r\n\ @version\ 1a\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2
